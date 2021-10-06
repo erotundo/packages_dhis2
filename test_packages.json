@@ -104,6 +104,41 @@
                "version":"2.30"
             }
          ]
-      }
+      },
+      {
+         "id":"COVID_COMPLETE",
+         "name":"Covid Complete",
+         "organization":"WHO",
+         "description":"",
+         "url":"http://www.who.int",
+         "icons":[
+            {
+               "48":"http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+               "128":"http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+            }
+         ],
+         "license":{
+            "name":"?",
+            "url":"https://who.int"
+         },
+         "tags":[
+            "Dashboard",
+            "COVID"
+         ],
+         "versions":[
+            {
+               "href":"https://raw.githubusercontent.com/dhis2/metadata-package-development/master/metadata/COVID19/COVID19_COMPLETE_V2_DHIS2.32/metadata.json",
+               "version":"2.32"
+            },
+            {
+               "href":"https://raw.githubusercontent.com/dhis2/metadata-package-development/master/metadata/COVID19/COVID19_COMPLETE_V2_DHIS2.33/metadata.json",
+               "version":"2.33"
+            },
+            {
+               "href":"https://raw.githubusercontent.com/dhis2/metadata-package-development/master/metadata/COVID19/COVID19_COMPLETE_V2_DHIS2.34/metadata.json",
+               "version":"2.34"
+            }
+         ]
+      },
    ]
 }
