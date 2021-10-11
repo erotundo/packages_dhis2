@@ -131,6 +131,33 @@
                "version":"2.33"
             }
          ]
+      },
+      {
+         "id":"COVID19_POETracker",
+         "name":"Covid19 POE Tracker Clean",
+         "organization":"WHO",
+         "description":"",
+         "url":"http://www.who.int",
+         "icons":[
+            {
+               "48":"http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg",
+               "128":"http://www.uio.no/om/designmanual/images/1-2-logo-universitetet-i-oslo.jpg"
+            }
+         ],
+         "license":{
+            "name":"?",
+            "url":"https://who.int"
+         },
+         "tags":[
+            "Dashboard",
+            "COVID19"
+         ],
+         "versions":[
+            {
+               "href":"https://raw.githubusercontent.com/erotundo/packages_dhis2/main/covid19_poe_tracker2.json",
+               "version":"2.33"
+            }
+         ]
       }
    ]
 }
