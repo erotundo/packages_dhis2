@@ -106,8 +106,8 @@
          ]
       },
       {
-         "id":"COVID_COMPLETE",
-         "name":"Covid Complete",
+         "id":"COVID19_CaseSurvillance",
+         "name":"Covid19 Case Survillance Clean",
          "organization":"WHO",
          "description":"",
          "url":"http://www.who.int",
@@ -127,16 +127,8 @@
          ],
          "versions":[
             {
-               "href":"https://raw.githubusercontent.com/dhis2/metadata-package-development/master/metadata/COVID19/COVID19_COMPLETE_V2_DHIS2.32/metadata.json",
-               "version":"2.32"
-            },
-            {
-               "href":"https://raw.githubusercontent.com/dhis2/metadata-package-development/master/metadata/COVID19/COVID19_COMPLETE_V2_DHIS2.33/metadata.json",
+               "href":"https://raw.githubusercontent.com/erotundo/packages_dhis2/main/covid19_tracker2.json",
                "version":"2.33"
-            },
-            {
-               "href":"https://raw.githubusercontent.com/dhis2/metadata-package-development/master/metadata/COVID19/COVID19_COMPLETE_V2_DHIS2.34/metadata.json",
-               "version":"2.34"
             }
          ]
       }
